@@ -84,7 +84,7 @@ Siga os passos abaixo para configurar o projeto no seu computador:
 
 Clone o repositório do GitHub:
 
-git clone https://github.com/SEU_USUARIO/interpretador_aritmetico.git
+git clone https://github.com/BrunaCosta194/interpretador-aritmetico
 cd interpretador_aritmetico
 
 
