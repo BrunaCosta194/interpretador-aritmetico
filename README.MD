@@ -355,6 +355,3 @@ README.md: Esta documentação.
 
 
 
-Contato
-
-Para dúvidas ou sugestões, entre em contato com [SEU_NOME] (SEU_EMAIL).
